@@ -52,4 +52,4 @@ api_key = 'YOUR_API_KEY'
 ```
 
 ### Running the Application
-To run the application, simply execute the pythonweatherapp.py script:
+To run the application, simply execute the pythonweatherapp.py, enter a city location in the seach box and click the Search button. You can also select if you would like the temperature displayed in celsius or fahrenheit, using the redio buttons.
